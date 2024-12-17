@@ -10,7 +10,7 @@ The webscraping process involves utilizing a variety of tools and technologies, 
 
 This technique is useful for a number of business applications, including competitor analysis, product price monitoring, market research, and trend tracking. By collecting data from multiple websites, it is possible to gain a broader view of the market, better understand competitors, and adjust your business strategies.
 
-![image](https://github.com/user-attachments/assets/e0c001c1-c23a-4f48-8e08-1ee17ead72c7)
+![image](https://github.com/user-attachments/assets/fc809fb2-8c27-4576-9147-df461b132ba1)
 
 
 
